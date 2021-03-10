@@ -1,7 +1,7 @@
 import {
     render,
     html
-} from 'https://unpkg.com/uhtml@2.0.1/esm/index.js?module';
+} from 'https://unpkg.com/uhtml@2.1.1/esm/index.js?module';
 
 const API_BASE = 'https://coronavirus-monitor.p.rapidapi.com/coronavirus';
 
