@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/8xRICza.png)
+![](https://i.imgur.com/WpQ4U3p.png)
 > COVID-19（2019 冠狀病毒疾病）疫情流行，韓國新增 26 萬多例確診，但仍進一步放寬防疫規範；泰國公立醫院增設 COVID-19 診所，緩解曼谷醫療壓力
