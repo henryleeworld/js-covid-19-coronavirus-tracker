@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/VmiKpFq.png)
+![](https://i.imgur.com/F7PwvII.png)
 > 香港 2 日新增 4475 例COVID-19確診病例，首度跌破 5000 例，第五波疫情近期趨緩，外傳香港特首選舉可能再因疫情延後，行政長官林鄭月娥強調，選舉會如期在 5 月 8 日投票
